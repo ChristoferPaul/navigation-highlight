@@ -1,7 +1,24 @@
-html{
-  background-color: #ffe500;
+html {
+  line-height: 1.5;
 }
 
-header{
-  3 rem
+body {
+  font-family: 'Georgia'
+  margin: .3em;
+}
+
+h1 {
+  background-color: #ffe500;
+  font-family: 'Sigmar One', bold;
+  font-size:1.875rem;
+}
+
+header {
+  font-family: 'Sigmar One', bold;
+  font-size:1.125rem
+}
+
+footer {
+  background-color: #ffe500;
+  font-size:.75rem
 }
