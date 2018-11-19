@@ -24,7 +24,6 @@ deliverables: "4 HTML files, 1 CSS file, images"
 - *Line height:* `1.5`
 - *Paddings:* `.2em .5em .3em`, `0 .75em`, `.75em`
 - *Margins:* `.3em`
-- *Corner radius*: `4px`
 
 ---
 
